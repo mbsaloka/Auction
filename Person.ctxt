@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=name
+comment1.target=Person(java.lang.String)
+comment1.text=\n\ Constructor\ untuk\ membuat\ orang\ baru.\n\ @param\ name\ Nama\ orang\ tersebut.\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Mengembalikan\ nama\ orang\ tersebut.\n\ @return\ Nama\ orang.\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

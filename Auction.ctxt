@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Auction
+comment1.params=
+comment1.target=Auction()
+comment2.params=lotNumber\ bidder\ value
+comment2.target=void\ makeABid(int,\ Person,\ long)
+comment3.params=lotNumber
+comment3.target=Lot\ getLot(int)
+comment4.params=
+comment4.target=void\ showLots()
+comment5.params=description
+comment5.target=void\ enterLot(java.lang.String)
+numComments=6
